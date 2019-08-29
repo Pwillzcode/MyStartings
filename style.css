@@ -1,0 +1,12 @@
+h1  {
+  color: blue
+}
+body {
+  background-color:rgb(150, 200, 180);
+  padding-left: 100px;
+  font-style: inherit;
+  padding-right: 100px;
+  display: inline-block;
+  
+  
+}
